@@ -6,6 +6,7 @@ This is a simple landing page for a fictional pet shop. It was one of my first H
 - HTML5
 - CSS3
 - Responsive Design (Media Queries)
+- JavaScript
 
 ## 🎯 Purpose
 This page simulates a basic business site with sections like:
